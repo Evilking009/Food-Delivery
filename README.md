@@ -7,7 +7,7 @@ Basic Responsive Food delivery front web page created using Html &amp; CSS
 - CSS
 
 # Live Site
-
+- https://fooddeliverypk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/Food-Delivery/assets/4027728/ccd75bce-3bd9-40c7-ad6d-16dada9aaf4c)
